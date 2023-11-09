@@ -1,4 +1,11 @@
-### Hi there 👋
+# motivation
+getting old
+
+# intention
+leaving useful stugg
+
+# progress
+slow
 
 <!--
 **onderhold/onderhold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
