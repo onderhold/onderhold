@@ -2,7 +2,7 @@
 getting old
 
 # intention
-leaving useful stugg
+leaving behind something useful
 
 # progress
 slow
